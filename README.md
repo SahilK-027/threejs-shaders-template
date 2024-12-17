@@ -13,4 +13,4 @@ npm run build
 
 Renders A Gradient Colour Plane Upon Starting
 
-<img width="1438" alt="Screenshot 2024-04-12 at 10 34 04 AM" src="https://github.com/SahilK-027/threejs-shaders-template/assets/104154041/a60c6545-f128-4556-a834-d2486d76b360">
+<img width="1440" alt="Screenshot 2024-12-17 at 6 43 00 PM" src="https://github.com/user-attachments/assets/1a8a4cbd-babd-4749-95ad-09fc46b618ef" />
